@@ -23,6 +23,7 @@ function ConsultationsPage() {
     }
 
     function performEdit(updatedConsultationObj, consultationId) {
+        
         fetch(`http://localhost:9292/consultations/${consultationId}`, {
             method: "PATCH",
             headers: {

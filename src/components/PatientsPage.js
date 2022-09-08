@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import PatientAddForm from "./ PatientAddForm";
-import  PatientsContainer from "./ PatientsContainer";
+import PatientAddForm from "./PatientAddForm";
+import  PatientsContainer from "./PatientsContainer";
 
 function  PatientsPage() {
 
