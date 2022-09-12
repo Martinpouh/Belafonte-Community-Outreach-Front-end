@@ -1,10 +1,38 @@
-# Getting Started with Create React App
+# Belafonte Community Outreach
+*****
+### Author : Martin Chege 9th September2022
+****
+## Project Description
+The focus of this project is building a Sinatra API backend that uses Active Record to access and persist data in a database, which will be used by a separate React frontend that interacts with the database via the API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Getting:
+1.Add a patient
+2.Edit/Update information
+3.Delete information
+4.List all patients
+5.List of Appointments/Consultation.
+******
 
+## SCREENSHOTS
+![Screenshot from 2022-07-31 23-46-09](https://user-images.githubusercontent.com/24671358/182957142-f442418f-ca24-4a14-af61-ff88bbd1e706.png)
+![Screenshot from 2022-07-31 23-46-17](https://user-images.githubusercontent.com/24671358/182957154-20ae6ce4-1226-4ddf-84a6-60333b1b9216.png)
+![Screenshot from 2022-07-31 23-46-28](https://user-images.githubusercontent.com/24671358/182957159-683b2693-43d0-461a-9bde-de81dd133306.png)
+![Screenshot from 2022-07-31 23-46-36](https://user-images.githubusercontent.com/24671358/182957162-c0e47f70-a835-4730-a8ff-11dbb72ec0bf.png)
+
+
+
+********
+## SetUp Instruction
+### Requirements
 ## Available Scripts
 
 In the project directory, you can run:
+
+Create react app
+
+### `npx create-react-app my-app-frontend`
+
+To generate the necessary code for your React frontend
 
 ### `npm start`
 
@@ -39,32 +67,34 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Getting Files
+* Fork the repo
+- Create a new branch in your terminal (git checkout -b improve-feature)
+- Install the prerequisites.
+- Make appropriate changes in file(s)
+- Run the server to see the changes
+- Add the changes and commit them (git commit -am "Improve App")
+- Push to the branch (git push origin improve-app)
+- Create a Pull request
+* Open the folder location on terminal and use the following command to run app:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## How To Run It
+start server and npm start
+## Live Link
+Or you can access the web application directly via this [LINK.](link.com/)
+*****
 
-### Code Splitting
+## Technologies Used
+1. HTML
+2. CSS
+3. JavaScript
+4. React Library
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*****
+## Contact Information
+* Email : martin.chege@student.moringaschool.com
+*****
+## [License](LICENSE)
+MIT License
+Copyright (c) 2022 Martin Chege

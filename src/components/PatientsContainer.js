@@ -11,7 +11,7 @@ function PatientsContainer({ patientsArray, performDelete, performEdit }) {
                         <th scope="col">First Name</th>
                         <th scope="col">Last Name</th>
                         <th scope="col">Email</th>
-                        <th scope="col">Class Count</th>
+                        <th scope="col">Appointment Count</th>
                         <th scope="col">Edit</th>
                         <th scope="col">Delete</th>
                     </tr>
